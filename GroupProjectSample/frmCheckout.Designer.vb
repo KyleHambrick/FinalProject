@@ -263,7 +263,7 @@ Partial Class frmCheckout
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(666, 660)
+        Me.ClientSize = New System.Drawing.Size(666, 659)
         Me.Controls.Add(Me.mtbPhoneNum)
         Me.Controls.Add(Me.mtbZipCode)
         Me.Controls.Add(Me.btnCancel)

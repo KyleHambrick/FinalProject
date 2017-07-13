@@ -13,3 +13,7 @@
 \\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.exe
 \\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.xml
 \\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.exe
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.xml
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.pdb

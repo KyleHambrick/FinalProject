@@ -74,4 +74,8 @@ Public Class frmCheckout
 
 
     End Sub
+
+    Private Sub frmCheckout_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'changes
+    End Sub
 End Class
