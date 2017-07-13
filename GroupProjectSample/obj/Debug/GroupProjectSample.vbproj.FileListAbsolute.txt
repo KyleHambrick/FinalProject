@@ -1,0 +1,15 @@
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.pdb
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.xml
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.vbprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmAlbum.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmCheckout.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmImage.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmMediaStore.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmVideo.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.Resources.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.vbproj.GenerateResource.Cache
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.exe
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.xml
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
