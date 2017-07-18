@@ -159,7 +159,7 @@ Partial Class UI
         '
         'PictureBox1
         '
-        Me.PictureBox1.Location = New System.Drawing.Point(46, 16)
+        Me.PictureBox1.Location = New System.Drawing.Point(50, 30)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(80, 63)
         Me.PictureBox1.TabIndex = 0

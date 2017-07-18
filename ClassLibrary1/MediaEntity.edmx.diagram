@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5fec6bf077424e5f898cf2c5f13ed1bc" Name="Diagram1">
+        <EntityTypeShape EntityType="MediaCollectionModel.Album" Width="1.5" PointX="3" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Artist" Width="1.5" PointX="0.75" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Artist1" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Cart" Width="1.5" PointX="5.25" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Genre" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Order" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.OrderDetail" Width="1.5" PointX="8.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Table" Width="1.5" PointX="2.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Image" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MediaCollectionModel.Video" Width="1.5" PointX="3" PointY="12.75" IsExpanded="true" />
+        <AssociationConnector Association="MediaCollectionModel.FK__Album__ArtistId__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="MediaCollectionModel.FK_Album_Genre" ManuallyRouted="false" />
+        <AssociationConnector Association="MediaCollectionModel.FK_Cart_Album" ManuallyRouted="false" />
+        <AssociationConnector Association="MediaCollectionModel.FK_InvoiceLine_Album" ManuallyRouted="false" />
+        <AssociationConnector Association="MediaCollectionModel.FK__Image__ArtistId__276EDEB7" ManuallyRouted="false" />
+        <AssociationConnector Association="MediaCollectionModel.FK__Video__ArtistId__276EDEB7" ManuallyRouted="false" />
+        <AssociationConnector Association="MediaCollectionModel.FK__InvoiceLi__Invoi__2F10007B" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
