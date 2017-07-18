@@ -172,5 +172,29 @@
   <ItemGroup>
     <None Include="Resources\hm.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\star-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicvid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicvid1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
