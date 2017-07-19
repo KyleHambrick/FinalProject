@@ -32,6 +32,11 @@ MediaCollectionUi
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:MediaCollectionUI.My.Resources.Resources.DeleteMEedium">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MediaCollectionUI.My.Resources.Resources.icon">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -67,7 +72,17 @@ MediaCollectionUi
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:MediaCollectionUI.My.Resources.Resources.settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MediaCollectionUI.My.Resources.Resources.video">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MediaCollectionUI.My.Resources.Resources.x">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

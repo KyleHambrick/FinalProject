@@ -161,7 +161,7 @@ Partial Class UI
         Me.Button6.ForeColor = System.Drawing.Color.White
         Me.Button6.Image = Global.MediaCollectionUI.My.Resources.Resources.music
         Me.Button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Button6.Location = New System.Drawing.Point(-2, 404)
+        Me.Button6.Location = New System.Drawing.Point(1, 404)
         Me.Button6.Name = "Button6"
         Me.Button6.Size = New System.Drawing.Size(199, 40)
         Me.Button6.TabIndex = 9
@@ -279,7 +279,6 @@ Partial Class UI
         Me.Controls.Add(Me.Panel4)
         Me.Controls.Add(Me.Panel3)
         Me.Controls.Add(Me.Panel1)
-        Me.Enabled = False
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.MaximizeBox = False
         Me.Name = "UI"
