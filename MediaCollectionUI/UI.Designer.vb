@@ -68,7 +68,7 @@ Partial Class UI
         Me.Button3.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(42, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(173, Byte), Integer))
         Me.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button3.ForeColor = System.Drawing.Color.White
-        Me.Button3.Image = Global.GroupProjectSample.My.Resources.Resources.music
+        Me.Button3.Image = Global.MediaCollectionUI.My.Resources.Resources.music
         Me.Button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button3.Location = New System.Drawing.Point(0, 358)
         Me.Button3.Name = "Button3"
@@ -101,7 +101,7 @@ Partial Class UI
         Me.Button4.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(42, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(173, Byte), Integer))
         Me.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button4.ForeColor = System.Drawing.Color.White
-        Me.Button4.Image = Global.GroupProjectSample.My.Resources.Resources.music
+        Me.Button4.Image = Global.MediaCollectionUI.My.Resources.Resources.music
         Me.Button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button4.Location = New System.Drawing.Point(1, 312)
         Me.Button4.Name = "Button4"
@@ -116,7 +116,7 @@ Partial Class UI
         Me.Button2.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(42, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(173, Byte), Integer))
         Me.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button2.ForeColor = System.Drawing.Color.White
-        Me.Button2.Image = Global.GroupProjectSample.My.Resources.Resources.music
+        Me.Button2.Image = Global.MediaCollectionUI.My.Resources.Resources.music
         Me.Button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button2.Location = New System.Drawing.Point(1, 266)
         Me.Button2.Name = "Button2"
@@ -131,7 +131,7 @@ Partial Class UI
         Me.Button1.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(42, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(173, Byte), Integer))
         Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button1.ForeColor = System.Drawing.Color.White
-        Me.Button1.Image = Global.GroupProjectSample.My.Resources.Resources.images
+        Me.Button1.Image = Global.MediaCollectionUI.My.Resources.Resources.images
         Me.Button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button1.Location = New System.Drawing.Point(1, 220)
         Me.Button1.Name = "Button1"
@@ -177,7 +177,7 @@ Partial Class UI
         Me.Button5.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(42, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(173, Byte), Integer))
         Me.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button5.ForeColor = System.Drawing.Color.White
-        Me.Button5.Image = Global.GroupProjectSample.My.Resources.Resources.video
+        Me.Button5.Image = Global.MediaCollectionUI.My.Resources.Resources.video
         Me.Button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button5.Location = New System.Drawing.Point(1, 174)
         Me.Button5.Name = "Button5"
@@ -197,7 +197,7 @@ Partial Class UI
         '
         'pbFeatured
         '
-        Me.pbFeatured.Image = Global.GroupProjectSample.My.Resources.Resources.icon
+        Me.pbFeatured.Image = Global.MediaCollectionUI.My.Resources.Resources.icon
         Me.pbFeatured.Location = New System.Drawing.Point(0, 1)
         Me.pbFeatured.Name = "pbFeatured"
         Me.pbFeatured.Size = New System.Drawing.Size(525, 121)
@@ -209,7 +209,7 @@ Partial Class UI
         Me.Button6.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(CType(CType(42, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(173, Byte), Integer))
         Me.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.Button6.ForeColor = System.Drawing.Color.White
-        Me.Button6.Image = Global.GroupProjectSample.My.Resources.Resources.music
+        Me.Button6.Image = Global.MediaCollectionUI.My.Resources.Resources.music
         Me.Button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button6.Location = New System.Drawing.Point(0, 424)
         Me.Button6.Name = "Button6"
