@@ -1,4 +1,0 @@
-C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
-C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\obj\Debug\GroupProjectSample.exe
-C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\obj\Debug\GroupProjectSample.xml
-C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
