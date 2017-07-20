@@ -106,14 +106,6 @@
     <Compile Include="frmVideo.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MediaCollectionDataSet.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>MediaCollectionDataSet.xsd</DependentUpon>
-    </Compile>
-    <Compile Include="MediaCollectionDataSet.vb">
-      <DependentUpon>MediaCollectionDataSet.xsd</DependentUpon>
-    </Compile>
     <Compile Include="ModLogic.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -164,17 +156,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="MediaCollectionDataSet.xsc">
-      <DependentUpon>MediaCollectionDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="MediaCollectionDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>MediaCollectionDataSet.Designer.vb</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="MediaCollectionDataSet.xss">
-      <DependentUpon>MediaCollectionDataSet.xsd</DependentUpon>
-    </None>
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>

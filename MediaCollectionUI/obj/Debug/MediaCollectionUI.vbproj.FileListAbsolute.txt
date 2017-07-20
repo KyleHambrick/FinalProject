@@ -51,3 +51,7 @@ C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollec
 C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
 C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
 C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
