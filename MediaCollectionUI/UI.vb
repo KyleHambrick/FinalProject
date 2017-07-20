@@ -46,9 +46,4 @@ Public Class UI
         drag = False
 
     End Sub
-
-
-
-
-
 End Class

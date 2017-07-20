@@ -24,34 +24,34 @@ Partial Class UI
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.Panel5 = New System.Windows.Forms.Panel()
-        Me.Panel2 = New System.Windows.Forms.Panel()
-        Me.Panel3 = New System.Windows.Forms.Panel()
-        Me.Panel4 = New System.Windows.Forms.Panel()
-        Me.NotifyIcon1 = New System.Windows.Forms.NotifyIcon(Me.components)
-        Me.pbFeatured = New System.Windows.Forms.PictureBox()
-        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Button6 = New System.Windows.Forms.Button()
         Me.Button5 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Panel5 = New System.Windows.Forms.Panel()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.PictureBox4 = New System.Windows.Forms.PictureBox()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
         Me.Button4 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.Panel3 = New System.Windows.Forms.Panel()
+        Me.PictureBox5 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox3 = New System.Windows.Forms.PictureBox()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.pbFeatured = New System.Windows.Forms.PictureBox()
+        Me.NotifyIcon1 = New System.Windows.Forms.NotifyIcon(Me.components)
         Me.Panel1.SuspendLayout()
         Me.Panel5.SuspendLayout()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel3.SuspendLayout()
-        Me.Panel4.SuspendLayout()
-        CType(Me.pbFeatured, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.Panel4.SuspendLayout()
+        CType(Me.pbFeatured, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Panel1
@@ -70,89 +70,6 @@ Partial Class UI
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Size = New System.Drawing.Size(200, 467)
         Me.Panel1.TabIndex = 0
-        '
-        'Panel5
-        '
-        Me.Panel5.Controls.Add(Me.Label1)
-        Me.Panel5.Controls.Add(Me.PictureBox4)
-        Me.Panel5.Controls.Add(Me.PictureBox2)
-        Me.Panel5.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Panel5.Location = New System.Drawing.Point(0, 0)
-        Me.Panel5.Name = "Panel5"
-        Me.Panel5.Size = New System.Drawing.Size(200, 172)
-        Me.Panel5.TabIndex = 6
-        '
-        'Panel2
-        '
-        Me.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
-        Me.Panel2.Location = New System.Drawing.Point(202, 3)
-        Me.Panel2.Name = "Panel2"
-        Me.Panel2.Size = New System.Drawing.Size(525, 66)
-        Me.Panel2.TabIndex = 1
-        '
-        'Panel3
-        '
-        Me.Panel3.BackColor = System.Drawing.Color.White
-        Me.Panel3.Controls.Add(Me.PictureBox5)
-        Me.Panel3.Controls.Add(Me.PictureBox3)
-        Me.Panel3.Controls.Add(Me.PictureBox1)
-        Me.Panel3.Dock = System.Windows.Forms.DockStyle.Top
-        Me.Panel3.Location = New System.Drawing.Point(200, 0)
-        Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(527, 50)
-        Me.Panel3.TabIndex = 1
-        '
-        'Panel4
-        '
-        Me.Panel4.Controls.Add(Me.pbFeatured)
-        Me.Panel4.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Panel4.Location = New System.Drawing.Point(200, 50)
-        Me.Panel4.Name = "Panel4"
-        Me.Panel4.Size = New System.Drawing.Size(527, 417)
-        Me.Panel4.TabIndex = 2
-        '
-        'NotifyIcon1
-        '
-        Me.NotifyIcon1.Text = "NotifyIcon1"
-        Me.NotifyIcon1.Visible = True
-        '
-        'pbFeatured
-        '
-        Me.pbFeatured.Image = Global.MediaCollectionUI.My.Resources.Resources.icon
-        Me.pbFeatured.Location = New System.Drawing.Point(0, 1)
-        Me.pbFeatured.Name = "pbFeatured"
-        Me.pbFeatured.Size = New System.Drawing.Size(525, 121)
-        Me.pbFeatured.TabIndex = 0
-        Me.pbFeatured.TabStop = False
-        '
-        'PictureBox5
-        '
-        Me.PictureBox5.Image = Global.MediaCollectionUI.My.Resources.Resources.settings
-        Me.PictureBox5.Location = New System.Drawing.Point(69, 9)
-        Me.PictureBox5.Name = "PictureBox5"
-        Me.PictureBox5.Size = New System.Drawing.Size(35, 38)
-        Me.PictureBox5.TabIndex = 2
-        Me.PictureBox5.TabStop = False
-        '
-        'PictureBox3
-        '
-        Me.PictureBox3.Image = Global.MediaCollectionUI.My.Resources.Resources.DeleteMEedium
-        Me.PictureBox3.Location = New System.Drawing.Point(473, 12)
-        Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(30, 28)
-        Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.PictureBox3.TabIndex = 1
-        Me.PictureBox3.TabStop = False
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Image = Global.MediaCollectionUI.My.Resources.Resources.cart1
-        Me.PictureBox1.Location = New System.Drawing.Point(15, 11)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(35, 29)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
-        Me.PictureBox1.TabIndex = 0
-        Me.PictureBox1.TabStop = False
         '
         'Button6
         '
@@ -198,6 +115,27 @@ Partial Class UI
         Me.Button3.Text = "             Report"
         Me.Button3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button3.UseVisualStyleBackColor = False
+        '
+        'Panel5
+        '
+        Me.Panel5.Controls.Add(Me.Label1)
+        Me.Panel5.Controls.Add(Me.PictureBox4)
+        Me.Panel5.Controls.Add(Me.PictureBox2)
+        Me.Panel5.Dock = System.Windows.Forms.DockStyle.Top
+        Me.Panel5.Location = New System.Drawing.Point(0, 0)
+        Me.Panel5.Name = "Panel5"
+        Me.Panel5.Size = New System.Drawing.Size(200, 172)
+        Me.Panel5.TabIndex = 6
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.ForeColor = System.Drawing.Color.White
+        Me.Label1.Location = New System.Drawing.Point(62, 104)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(39, 13)
+        Me.Label1.TabIndex = 3
+        Me.Label1.Text = "Label1"
         '
         'PictureBox4
         '
@@ -260,15 +198,77 @@ Partial Class UI
         Me.Button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         Me.Button1.UseVisualStyleBackColor = False
         '
-        'Label1
+        'Panel2
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.ForeColor = System.Drawing.Color.White
-        Me.Label1.Location = New System.Drawing.Point(62, 104)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(39, 13)
-        Me.Label1.TabIndex = 3
-        Me.Label1.Text = "Label1"
+        Me.Panel2.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.Panel2.Location = New System.Drawing.Point(202, 3)
+        Me.Panel2.Name = "Panel2"
+        Me.Panel2.Size = New System.Drawing.Size(525, 66)
+        Me.Panel2.TabIndex = 1
+        '
+        'Panel3
+        '
+        Me.Panel3.BackColor = System.Drawing.Color.White
+        Me.Panel3.Controls.Add(Me.PictureBox5)
+        Me.Panel3.Controls.Add(Me.PictureBox3)
+        Me.Panel3.Controls.Add(Me.PictureBox1)
+        Me.Panel3.Dock = System.Windows.Forms.DockStyle.Top
+        Me.Panel3.Location = New System.Drawing.Point(200, 0)
+        Me.Panel3.Name = "Panel3"
+        Me.Panel3.Size = New System.Drawing.Size(527, 50)
+        Me.Panel3.TabIndex = 1
+        '
+        'PictureBox5
+        '
+        Me.PictureBox5.Image = Global.MediaCollectionUI.My.Resources.Resources.settings
+        Me.PictureBox5.Location = New System.Drawing.Point(69, 9)
+        Me.PictureBox5.Name = "PictureBox5"
+        Me.PictureBox5.Size = New System.Drawing.Size(35, 38)
+        Me.PictureBox5.TabIndex = 2
+        Me.PictureBox5.TabStop = False
+        '
+        'PictureBox3
+        '
+        Me.PictureBox3.Image = Global.MediaCollectionUI.My.Resources.Resources.DeleteMEedium
+        Me.PictureBox3.Location = New System.Drawing.Point(473, 12)
+        Me.PictureBox3.Name = "PictureBox3"
+        Me.PictureBox3.Size = New System.Drawing.Size(30, 28)
+        Me.PictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.PictureBox3.TabIndex = 1
+        Me.PictureBox3.TabStop = False
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.Image = Global.MediaCollectionUI.My.Resources.Resources.cart1
+        Me.PictureBox1.Location = New System.Drawing.Point(15, 11)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(35, 29)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
+        Me.PictureBox1.TabIndex = 0
+        Me.PictureBox1.TabStop = False
+        '
+        'Panel4
+        '
+        Me.Panel4.Controls.Add(Me.pbFeatured)
+        Me.Panel4.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.Panel4.Location = New System.Drawing.Point(200, 50)
+        Me.Panel4.Name = "Panel4"
+        Me.Panel4.Size = New System.Drawing.Size(527, 417)
+        Me.Panel4.TabIndex = 2
+        '
+        'pbFeatured
+        '
+        Me.pbFeatured.Image = Global.MediaCollectionUI.My.Resources.Resources.icon
+        Me.pbFeatured.Location = New System.Drawing.Point(0, 1)
+        Me.pbFeatured.Name = "pbFeatured"
+        Me.pbFeatured.Size = New System.Drawing.Size(525, 121)
+        Me.pbFeatured.TabIndex = 0
+        Me.pbFeatured.TabStop = False
+        '
+        'NotifyIcon1
+        '
+        Me.NotifyIcon1.Text = "NotifyIcon1"
+        Me.NotifyIcon1.Visible = True
         '
         'UI
         '
@@ -288,14 +288,14 @@ Partial Class UI
         Me.Panel1.ResumeLayout(False)
         Me.Panel5.ResumeLayout(False)
         Me.Panel5.PerformLayout()
+        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel3.ResumeLayout(False)
-        Me.Panel4.ResumeLayout(False)
-        CType(Me.pbFeatured, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox5, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox4, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Panel4.ResumeLayout(False)
+        CType(Me.pbFeatured, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
