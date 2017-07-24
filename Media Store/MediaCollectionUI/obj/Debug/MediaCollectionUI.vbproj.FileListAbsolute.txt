@@ -1,0 +1,108 @@
+C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
+C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\obj\Debug\GroupProjectSample.exe
+C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\obj\Debug\GroupProjectSample.xml
+C:\Users\techno139\Desktop\MediaCollection\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.exe
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.xml
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\bin\Debug\GroupProjectSample.exe
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\bin\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\bin\Debug\GroupProjectSample.xml
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\MediaCollectionUI.vbprojResolveAssemblyReference.cache
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.frmAlbum.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.frmCheckout.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.frmImage.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.frmMediaStore.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.frmVideo.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.Resources.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\GroupProjectSample.UI.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\obj\Debug\MediaCollectionUI.vbproj.GenerateResource.Cache
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\GroupProjectSample\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.pdb
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.xml
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbprojResolveAssemblyReference.cache
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmAlbum.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmCheckout.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmImage.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmMediaStore.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmVideo.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.Resources.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.UI.resources
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbproj.GenerateResource.Cache
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\techno139\Desktop\FinalProjectLatest\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.pdb
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.xml
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbprojResolveAssemblyReference.cache
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmAlbum.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmCheckout.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmImage.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmMediaStore.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmVideo.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.Resources.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.UI.resources
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbproj.GenerateResource.Cache
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\Noble\Source\Repos\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\techno139\Desktop\NewFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.pdb
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\bin\Debug\MediaCollectionUi.xml
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbprojResolveAssemblyReference.cache
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmAlbum.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmCheckout.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmImage.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmMediaStore.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmVideo.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.Resources.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.UI.resources
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbproj.GenerateResource.Cache
+C:\Users\techno139\Desktop\FinalProjectFinal\FinalProject\MediaCollectionUI\obj\Debug\MediaCollectionUI.frmShoppingCart.resources
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\MediaCollectionUi.pdb
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\MediaCollectionUi.xml
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbprojResolveAssemblyReference.cache
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUI.Resources.resources
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUI.UI.resources
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbproj.GenerateResource.Cache
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\MediaStore.mdf
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\MediaStore_log.ldf
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\EntityFramework.dll
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\EntityFramework.xml
+C:\Users\Noble\Desktop\New folder\MediaCollectionUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\MediaStore.mdf
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\MediaStore_log.ldf
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe.config
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\MediaCollectionUi.exe
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\MediaCollectionUi.pdb
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\MediaCollectionUi.xml
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\EntityFramework.dll
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\EntityFramework.xml
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbprojResolveAssemblyReference.cache
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUI.Resources.resources
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUI.UI.resources
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUI.vbproj.GenerateResource.Cache
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUi.exe
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUi.xml
+C:\Users\Noble\Desktop\Media Store\MediaCollectionUI\obj\Debug\MediaCollectionUi.pdb

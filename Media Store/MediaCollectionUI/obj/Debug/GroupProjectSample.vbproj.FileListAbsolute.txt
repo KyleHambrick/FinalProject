@@ -1,0 +1,31 @@
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.pdb
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.xml
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.vbprojResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmAlbum.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmCheckout.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmImage.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmMediaStore.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmVideo.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.Resources.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.vbproj.GenerateResource.Cache
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.exe
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.xml
+\\buffalo.cs.fiu.edu\homes\Documents\Visual Studio 2017\Projects\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe.config
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.exe
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.xml
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.exe
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.pdb
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\bin\Debug\GroupProjectSample.xml
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.vbprojResolveAssemblyReference.cache
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmAlbum.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmCheckout.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmImage.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmMediaStore.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.frmVideo.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.Resources.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.UI.resources
+C:\Users\techno139\Desktop\GroupProjectSample\GroupProjectSample\obj\Debug\GroupProjectSample.vbproj.GenerateResource.Cache
